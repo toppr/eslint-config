@@ -1,6 +1,8 @@
 # @toppr/eslint-config
 Toppr's ESLint configurations.
 
+[![Code Climate](https://codeclimate.com/github/toppr/eslint-config/badges/gpa.svg)](https://codeclimate.com/github/toppr/eslint-config)
+
 ## Installation
 
 Install [ESLint](https://www.github.com/eslint/eslint) and this config package:
