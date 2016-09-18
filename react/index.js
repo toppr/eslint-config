@@ -35,8 +35,8 @@ module.exports = {
                 'everything-else',
                 'rendering',
             ],
-            groups: {
-                rendering: [
+            'groups': {
+                'rendering': [
                     '/^render.+$/',
                     'render',
                 ],
