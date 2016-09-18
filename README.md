@@ -14,3 +14,5 @@ Next, install any necessary peer dependencies mentioned in the configuration REA
 ## Usage
 
 This repository comes with three different main configurations: `default`, `es6`, and `react`. Check each directory's `README.md` for usage information.
+
+Make sure that you set a valid value for [env](http://eslint.org/docs/user-guide/configuring#specifying-environments) in your project's `.eslintrc` or `package.json` file.
