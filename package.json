@@ -1,24 +1,25 @@
 {
-  "name": "eslint-config-toppr",
+  "name": "@toppr/eslint-config",
   "version": "1.0.0",
-  "description": "An ESLint shareable config for the Toppr Javascript Style Guide",
+  "description": "Toppr's ESLint configurations",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/toppr/eslint-config-toppr.git"
+    "url": "git+https://github.com/toppr/eslint-config.git"
   },
   "keywords": [
     "eslint",
-    "eslintconfig",
-    "toppr"
+    "eslintconfig"
   ],
   "author": "Gautam Chaudhary <gautam@toppr.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/toppr/eslint-config-toppr/issues"
+    "url": "https://github.com/toppr/eslint-config/issues"
   },
-  "homepage": "https://github.com/toppr/eslint-config-toppr#readme"
+  "homepage": "https://github.com/toppr/eslint-config#readme",
+  "peerDependencies": {
+    "babel-eslint": "^6.1.2",
+    "eslint": ">= 3",
+    "eslint-plugin-react": "^6.2.2"
+  }
 }
