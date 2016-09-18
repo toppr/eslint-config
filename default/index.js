@@ -5,7 +5,9 @@ module.exports = {
         'eslint:recommended',
     ],
     'rules': {
-        'quotes': ['error', 'single', 'avoidEscape'],
+        'quotes': ['error', 'single', {
+            'avoidEscape': true,
+        }],
         'no-console': 'warn',
         'no-debugger': 'warn',
     },
