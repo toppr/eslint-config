@@ -2,7 +2,7 @@
 
 This directory contains the default settings.
 
-It inherits majority of the settings from `eslint:recommended`.
+It inherits majority of the settings from [eslint:recommended](http://eslint.org/docs/rules/).
 
 ## Usage
 
