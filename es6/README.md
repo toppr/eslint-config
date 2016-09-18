@@ -6,6 +6,12 @@ It inherits base settings from `@toppr/eslint-config`.
 
 ## Usage
 
+Install the peer dependency [babel-eslint](https://github.com/babel/babel-eslint):
+
+```sh
+$ npm install --save-dev babel-eslint
+```
+
 Add the following to your project's `.eslintrc`:
 
 ```json

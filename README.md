@@ -9,7 +9,7 @@ Install [ESLint](https://www.github.com/eslint/eslint) and this config package:
 $ npm install --save-dev eslint @toppr/eslint-config
 ```
 
-Next, install any necessary peer dependencies warned about when you ran the above command.
+Next, install any necessary peer dependencies mentioned in the configuration README.md files.
 
 ## Usage
 
