@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/toppr/eslint-config#readme",
   "peerDependencies": {
-    "babel-eslint": "^6.1.2",
+    "babel-eslint": ">= 6.1.2",
     "eslint": ">= 3",
-    "eslint-plugin-react": "^6.2.2"
+    "eslint-plugin-react": ">= 6.2.2"
   }
 }
