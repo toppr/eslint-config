@@ -1,6 +1,6 @@
 {
   "name": "@toppr/eslint-config",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Toppr's ESLint configurations",
   "main": "index.js",
   "repository": {
