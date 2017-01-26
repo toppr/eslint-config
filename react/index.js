@@ -24,10 +24,6 @@ module.exports = {
         'react/jsx-max-props-per-line': ['warn', {
             'maximum': 2,
         }],
-        'react/jsx-handler-names': ['warn', {
-            'eventHandlerPrefix': 'handle',
-            'eventHandlerPropPrefix': 'on',
-        }],
         'react/sort-comp': ['warn', {
             'order': [
                 'static-methods',
